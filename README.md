@@ -6,6 +6,7 @@
 Yukarıdaki örnekte göreceğiniz gibi, en üst kısımda **""public class Sınıf"** komutu ile bir sınıf (class) oluşturuyoruz. Java'da sınıflar içerisine kodlarımızı yazarız ve ilerleyen derslerde sınıflar konusuna derin bir giriş yapacağız. Daha sonra program çalıştığında çalışan bir metot olan **"Main Metodu"** sınıfımızın içerisine yazarız. Çünkü programı çalıştırmak için derleyici ilk olarak main metot içerisindeki komutları okuyacaktır.
 
 Main metot içerisine
+
 ![image](https://user-images.githubusercontent.com/116382993/201499950-215dcdf7-af67-46ad-8dca-60ddfc44f011.png)
 
 
